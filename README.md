@@ -1,6 +1,6 @@
 # Module 5 Challenge
 
-## Financial Analysis Tools
+## Financial Planning with APIs and Simulations
 This application consists of 2 parts:
 
 A financial planner for emergencies: The members will be able to use this tool to visualize their current savings. The members can then determine if they have enough reserves for an emergency fund.
